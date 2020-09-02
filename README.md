@@ -12,4 +12,5 @@ I have added a **.env_sample** file to show how to add sample API key. But, you 
 * Open `localhost:3000` in your browser.
 
 You should see something like this on successful authentication.
+
 ![Demo Screenshot](Screenshot.png)
